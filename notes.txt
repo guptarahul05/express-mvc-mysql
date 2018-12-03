@@ -1,0 +1,13 @@
+mvc pattern
+Saperation of concerns 
+Model View Controller
+responsible to represent data
+working woth data
+
+view : What user see Decoupled with application
+
+controllers: connection your model and your views
+(middleman)  {Routes are controllers}
+split across middleware function
+
+model === class ; class are blueprint of objects
